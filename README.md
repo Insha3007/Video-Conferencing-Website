@@ -1,2 +1,1 @@
-# BharatIntern
-Virtual Internship Tasks for Bharat Internship in Full Stack Development
+VIDEO CONFERENCING WEBSITE designed using HTML,CSS and JavaScript.
